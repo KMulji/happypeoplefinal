@@ -1,0 +1,18 @@
+docs_list_title: Navigation
+docs:
+  - title: Home
+    url: /
+  - title: About
+    url: /#about
+  - title: Services
+    url: /#services
+  - title: Testimonials
+    url: /#testimonials
+  - title: Products
+    subfolderitems:
+      - title: Coaching
+        url: /coaching.html
+        
+      - title: HR Consulting
+        url: /hr.html
+  
