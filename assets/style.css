@@ -148,7 +148,11 @@
     .navbar .navbar-nav .nav-link.active {
         color: var(--primary);
     }
-
+    .navbar .navbar-nav .nav-item .dropdown-menu .active{
+        background-color: var(--primary)!important;
+        
+    }
+    
     .navbar .navbar-brand h1 {
         color: var(--primary);
     }
